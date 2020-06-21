@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Rules>
+    <Rule id="playing games">
+        <Question>Do you like to play computer games?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="game time">
+        <Question>Can you play one game for a long period of time?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="playing with people">
+        <Question>Do you like to play games with other people?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+</Rules>
+

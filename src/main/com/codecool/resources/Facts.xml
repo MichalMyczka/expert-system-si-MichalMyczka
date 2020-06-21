@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Facts>
+    <Fact id="gothic">
+        <Description value="Gothic"/>
+        <Evals>
+            <Eval id="playing games">true</Eval>
+            <Eval id="game time">true</Eval>
+            <Eval id="playing with people">false</Eval>
+        </Evals>
+    </Fact>
+
+    <Fact id="minecraft">
+        <Description value="Minecraft"/>
+        <Evals>
+            <Eval id="playing games">true</Eval>
+            <Eval id="game time">true</Eval>
+            <Eval id="playing with people">true</Eval>
+        </Evals>
+    </Fact>
+
+    <Fact id="counter strike">
+        <Description value="Counter Strike"/>
+        <Evals>
+            <Eval id="playing games">true</Eval>
+            <Eval id="game time">false</Eval>
+            <Eval id="playing with people">true</Eval>
+        </Evals>
+    </Fact>
+
+    <Fact id="the stanley parable">
+        <Description value="The Stanley Parable"/>
+        <Evals>
+            <Eval id="playing games">true</Eval>
+            <Eval id="game time">false</Eval>
+            <Eval id="playing with people">false</Eval>
+        </Evals>
+    </Fact>
+
+    <Fact id="vampire fall">
+        <Description value="Mobile Game Vampire's Fall"/>
+        <Evals>
+            <Eval id="playing games">false</Eval>
+            <Eval id="game time">true</Eval>
+            <Eval id="playing with people">true</Eval>
+        </Evals>
+    </Fact>
+
+    <Fact id="heads up">
+        <Description value="Mobile Game Heads Up"/>
+        <Evals>
+            <Eval id="playing games">false</Eval>
+            <Eval id="game time">false</Eval>
+            <Eval id="playing with people">true</Eval>
+        </Evals>
+    </Fact>
+
+    <Fact id="sudoku">
+        <Description value="Mobile Game Sudoku"/>
+        <Evals>
+            <Eval id="playing games">false</Eval>
+            <Eval id="game time">false</Eval>
+            <Eval id="playing with people">false</Eval>
+        </Evals>
+    </Fact>
+
+    <Fact id="plague inc">
+        <Description value="Mobile Game Plague Inc"/>
+        <Evals>
+            <Eval id="playing games">false</Eval>
+            <Eval id="game time">true</Eval>
+            <Eval id="playing with people">false</Eval>
+        </Evals>
+    </Fact>
+</Facts>
